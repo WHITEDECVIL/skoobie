@@ -1,10 +1,10 @@
 # 🛰️ Skoobie Pro — Wi-Fi Security Auditor
 
- ____       _     _     
-/ ___| ___ | |__ (_)___ 
-\___ \/ _ \| '_ \| / __|
- ___) | (_) | |_) | \__ \
-|____/ \___/|_.__/|_|___/
+                                                                  ____       _     _     
+                                                                 / ___| ___ | |__ (_)___ 
+                                                                 \___ \/ _ \| '_ \| / __|
+                                                                  ___) | (_) | |_) | \__ \
+                                                                 |____/ \___/|_.__/|_|___/
 
 Skoobie Pro is an **ethical Wi-Fi auditing tool** designed for **security professionals, penetration testers, and government-authorized red teams**.  
 It **does not perform password cracking** — instead, it detects wireless networks, analyzes security posture, and generates clear audit reports.  
