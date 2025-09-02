@@ -1,0 +1,187 @@
+{
+  "generated": "2025-09-02T16:48:52.044290",
+  "findings": [
+    {
+      "network": {
+        "bssid": "BSSID",
+        "channel": null,
+        "privacy": "Privacy",
+        "cipher": "Cipher",
+        "auth": "Authentication",
+        "power": null,
+        "essid": "ESSID"
+      },
+      "issues": [
+        "No obvious issues detected from passive scan (still verify passphrase policies and firmware updates)"
+      ]
+    },
+    {
+      "network": {
+        "bssid": "E4:FA:C4:DC:82:4E",
+        "channel": 1,
+        "privacy": "OPN",
+        "cipher": "",
+        "auth": "",
+        "power": -101,
+        "essid": "KAILATH HOME"
+      },
+      "issues": [
+        "Open (unencrypted) network \u2014 data is visible to anyone"
+      ]
+    },
+    {
+      "network": {
+        "bssid": "3C:52:A1:6F:7D:5E",
+        "channel": 1,
+        "privacy": "OPN",
+        "cipher": "",
+        "auth": "",
+        "power": -104,
+        "essid": "KAILATH HOME"
+      },
+      "issues": [
+        "Open (unencrypted) network \u2014 data is visible to anyone"
+      ]
+    },
+    {
+      "network": {
+        "bssid": "64:29:43:06:2B:25",
+        "channel": 13,
+        "privacy": "WPA2",
+        "cipher": "CCMP",
+        "auth": "PSK",
+        "power": -86,
+        "essid": "THYKKAKATHU_YEL"
+      },
+      "issues": [
+        "WPA2 detected \u2014 ensure strong passphrase and consider WPA3 migration"
+      ]
+    },
+    {
+      "network": {
+        "bssid": "EC:A2:A0:6F:87:59",
+        "channel": 8,
+        "privacy": "WPA2",
+        "cipher": "CCMP TKIP",
+        "auth": "PSK",
+        "power": -101,
+        "essid": "Ankul"
+      },
+      "issues": [
+        "WPA2 detected \u2014 ensure strong passphrase and consider WPA3 migration"
+      ]
+    },
+    {
+      "network": {
+        "bssid": "BC:62:D2:A4:D8:77",
+        "channel": 9,
+        "privacy": "WPA2",
+        "cipher": "CCMP TKIP",
+        "auth": "PSK",
+        "power": -83,
+        "essid": "GNXS-a4d877"
+      },
+      "issues": [
+        "WPA2 detected \u2014 ensure strong passphrase and consider WPA3 migration"
+      ]
+    },
+    {
+      "network": {
+        "bssid": "F2:86:AA:5D:6C:4A",
+        "channel": 4,
+        "privacy": "WPA2",
+        "cipher": "CCMP",
+        "auth": "PSK",
+        "power": -104,
+        "essid": "Redmi Note 13 5G"
+      },
+      "issues": [
+        "WPA2 detected \u2014 ensure strong passphrase and consider WPA3 migration"
+      ]
+    },
+    {
+      "network": {
+        "bssid": "B8:B7:DB:42:5C:DC",
+        "channel": 5,
+        "privacy": "OPN",
+        "cipher": "",
+        "auth": "",
+        "power": -84,
+        "essid": "BSNLWIfI_Roaming"
+      },
+      "issues": [
+        "Open (unencrypted) network \u2014 data is visible to anyone"
+      ]
+    },
+    {
+      "network": {
+        "bssid": "B8:B7:DB:42:5C:DB",
+        "channel": 5,
+        "privacy": "WPA2",
+        "cipher": "CCMP",
+        "auth": "PSK",
+        "power": -84,
+        "essid": "BSNL_FTTH989"
+      },
+      "issues": [
+        "WPA2 detected \u2014 ensure strong passphrase and consider WPA3 migration"
+      ]
+    },
+    {
+      "network": {
+        "bssid": "34:60:F9:6D:44:FA",
+        "channel": 11,
+        "privacy": "OPN",
+        "cipher": "",
+        "auth": "",
+        "power": -81,
+        "essid": "KAILATH HOME"
+      },
+      "issues": [
+        "Open (unencrypted) network \u2014 data is visible to anyone"
+      ]
+    },
+    {
+      "network": {
+        "bssid": "A8:6E:84:93:07:A8",
+        "channel": 6,
+        "privacy": "OPN",
+        "cipher": "",
+        "auth": "",
+        "power": -85,
+        "essid": "KAILATH HOME"
+      },
+      "issues": [
+        "Open (unencrypted) network \u2014 data is visible to anyone"
+      ]
+    },
+    {
+      "network": {
+        "bssid": "A8:6E:84:93:07:DC",
+        "channel": 6,
+        "privacy": "OPN",
+        "cipher": "",
+        "auth": "",
+        "power": -103,
+        "essid": "KAILATH HOME"
+      },
+      "issues": [
+        "Open (unencrypted) network \u2014 data is visible to anyone"
+      ]
+    },
+    {
+      "network": {
+        "bssid": "A8:6E:84:93:07:BA",
+        "channel": 11,
+        "privacy": "OPN",
+        "cipher": "",
+        "auth": "",
+        "power": -104,
+        "essid": "KAILATH HOME"
+      },
+      "issues": [
+        "Open (unencrypted) network \u2014 data is visible to anyone"
+      ]
+    }
+  ]
+}
